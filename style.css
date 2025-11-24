@@ -9,7 +9,7 @@
 
 .container{
     background: linear-gradient(to bottom, orange, rgb(0, 132, 255));
-    height: 100vh;
+    height: 100%;
     padding: 24px;
 }
 
